@@ -27,16 +27,17 @@ public class loginTest {
        WebElement login = driver.findElement(By.id("_submit"));
        login.click();
 
-        Thread.sleep(3000);
+        Thread.sleep(5000);
 
          Actions actions = new Actions(driver);
          WebElement fleetModule = driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/a/span"));
          WebElement vehicleFuel = driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/div/div/ul/li[7]/a/span"));
 
          actions.moveToElement(fleetModule).perform();
-         Thread.sleep(3000);
+         Thread.sleep(5000);
          vehicleFuel.click();
 
+         // Hello from US
 
 
     }
