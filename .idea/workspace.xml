@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< Updated upstream
+
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="" />
-=======
+
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
+
       <change beforePath="$PROJECT_DIR$/congiguration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-=======
+
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
->>>>>>> main
+
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
->>>>>>> Stashed changes
-=======
+
+
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
->>>>>>> 7fa7ff0abf5f52625fea01646cec6777fdaaaf57
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +91,7 @@
     </task>
     <servers />
   </component>
-<<<<<<< HEAD
+
   <component name="WindowStateProjectService">
     <state width="1306" height="139" key="GridCell.Tab.0.bottom" timestamp="1612440336159">
       <screen x="0" y="0" width="1366" height="728" />
@@ -115,9 +114,6 @@
     <state width="1306" height="22" key="GridCell.Tab.0.right/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
     <state width="1306" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612440336159" />
   </component>
-=======
-<<<<<<< Updated upstream
-=======
   <component name="WindowStateProjectService">
     <state x="275" y="32" key="#Project_Structure" timestamp="1612522810048">
       <screen x="0" y="0" width="1366" height="728" />
@@ -148,6 +144,4 @@
     <state width="1306" height="22" key="GridCell.Tab.0.right/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
     <state width="1306" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612448402165" />
   </component>
->>>>>>> Stashed changes
->>>>>>> main
 </project>
