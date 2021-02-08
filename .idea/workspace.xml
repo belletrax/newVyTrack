@@ -23,14 +23,22 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+
+        <item name="BRANCH:aysen" type="e8cecc67:BranchNodeDescriptor" />
+
         <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
+
+    <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="adding a msg" />
+
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="adding a msg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +55,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\ybura\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.8194.7\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1ntFkx6H02eNTQqPmkOnh3trwch" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -106,6 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612201626289</updated>
       <workItem from="1612755843887" duration="1292000" />
+      <workItem from="1612803841210" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="adding a msg">
       <created>1612549777223</created>
@@ -121,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612552649579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1612803885967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612803885967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +160,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="aysen" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -141,7 +181,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding a msg" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a msg" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="32" key="#Project_Structure" timestamp="1612522810048">
@@ -176,9 +217,13 @@
     <state width="1306" height="22" key="GridCell.Tab.0.right/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
     <state width="1306" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612448402165" />
     <state width="1877" height="545" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612552712875">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612804157942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612552712875" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612804157942" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612759400513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612759400513" />
   </component>
 </project>
