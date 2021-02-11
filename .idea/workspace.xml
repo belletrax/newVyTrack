@@ -24,6 +24,10 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
 
+
+        <item name="BRANCH:aysen" type="e8cecc67:BranchNodeDescriptor" />
+
+
         <item name="BRANCH:aysen" type="e8cecc67:BranchNodeDescriptor" />
 
         <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
@@ -33,10 +37,20 @@
   </component>
   <component name="ChangeListManager">
 
+
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="adding a msg" />
 
     <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="adding a msg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+
+
+    <list default="true" id="b1aa7afa-d4ee-4342-b506-90765985d494" name="Default Changelist" comment="adding a msg">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/newVyTrack/tests/loginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/newVyTrack/tests/loginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Vytracktestdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Vytracktestdata.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Vytrak Credentials.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Vytrak Credentials.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/newVyTrack/tests/loginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/newVyTrack/tests/loginTest.class" afterDir="false" />
     </list>
 
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +82,12 @@
         <option name="mavenHome" value="C:\Users\ybura\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.8194.7\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+>>>>>>> Elif
   </component>
   <component name="ProjectId" id="1ntFkx6H02eNTQqPmkOnh3trwch" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -85,12 +105,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\newVyTrack\src\test\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\jbr\bin\newVyTrack\src\test\resources\features" />
       <recent name="C:\Users\User\IdeaProjects\newVyTrack\src\test\resources\features" />
     </key>
   </component>
@@ -172,6 +194,10 @@
                   </entry>
                 </map>
               </option>
+
+
+              <option name="COLUMN_ORDER" />
+
             </State>
           </value>
         </entry>
@@ -193,6 +219,7 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1612535918783" />
+
     <state width="1877" height="545" key="GridCell.Tab.0.bottom" timestamp="1612553398987">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,13 +244,58 @@
     <state width="1306" height="22" key="GridCell.Tab.0.right/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
     <state width="1306" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612448402165" />
     <state width="1877" height="545" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
+
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1613053590224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613053590224" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1613054225446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="22" key="GridCell.Tab.0.bottom/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613054225446" />
+    <state width="1877" height="545" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1613054225446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="22" key="GridCell.Tab.0.center/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613054225446" />
+    <state width="1877" height="545" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1613054225446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="22" key="GridCell.Tab.0.left/0.0.1366.646@0.0.1366.646" timestamp="1612439919749" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613054225446" />
+    <state width="1877" height="545" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1613054225446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="22" key="GridCell.Tab.0.right/0.0.1366.646@0.0.1366.646" timestamp="1612439919750" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613054225446" />
+    <state width="1877" height="545" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612553398987" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1613052465694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613052465694" />
+
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1612804157942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612804157942" />
+
+
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1613052715583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1613052715583" />
+
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612759400513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612759400513" />
   </component>
+
 </project>
+
+
+
