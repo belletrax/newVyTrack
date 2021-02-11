@@ -7,7 +7,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-     // Bu class'i sadece deneme amacli olusturdum
+import java.util.List;
+
+// Bu class'i sadece deneme amacli olusturdum
      // Diger sayfalari olusturduktan sonra silebiliriz.
 
 public class loginTest {
@@ -29,8 +31,17 @@ public class loginTest {
 
         Thread.sleep(5000);
 
-         Actions actions = new Actions(driver);
-         WebElement fleetModule = driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/a/span"));
+
+        List<WebElement> elements = driver.findElements(By.xpath("//*[@id=\"main-menu\"]/ul"));
+
+        for (WebElement element : elements) {
+            System.out.println(element.getText());
+        }
+
+
+
+       /*  Actions actions = new Actions(driver);
+        WebElement fleetModule = driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/a/span"));
          WebElement vehicleFuel = driver.findElement(By.xpath("//*[@id=\"main-menu\"]/ul/li[1]/div/div/ul/li[7]/a/span"));
 
          actions.moveToElement(fleetModule).perform();
@@ -38,6 +49,10 @@ public class loginTest {
          vehicleFuel.click();
 
          // Hello from US
+
+
+        */
+
 
 
     }
